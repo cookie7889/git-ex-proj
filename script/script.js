@@ -5,4 +5,4 @@ $(document).ready(function() {
     } else if (quest == 'n') {
         alert('ну тогда иди учи');
     }
-})
+});
